@@ -6,4 +6,5 @@ package com.example.administrator.test1;
 public class jjj
 {
     private String app;
+    private String banana;
 }
